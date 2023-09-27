@@ -1,0 +1,5 @@
+rootProject.name = 'grazier'
+include 'grazier-core'
+include 'grazier-domain'
+include 'grazier-persistence'
+
