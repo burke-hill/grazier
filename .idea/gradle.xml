@@ -10,8 +10,6 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/grazier-core" />
-            <option value="$PROJECT_DIR$/grazier-domain" />
-            <option value="$PROJECT_DIR$/grazier-persistence" />
           </set>
         </option>
       </GradleProjectSettings>
