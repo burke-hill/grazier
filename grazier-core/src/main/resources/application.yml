@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/grazier
     username: root
-    password: root
+    password: rootpass
     driver-class-name: com.mysql.cj.jdbc.Driver
 
   jpa:
