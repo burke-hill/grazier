@@ -20,7 +20,7 @@ public class ResidentController {
         return new ResponseEntity<>(residentService.getAllResidents(), HttpStatus.OK);
     }
 
-    @PostMapping
+    @PostMapping("/addResident")
     public Resident newResident(@RequestBody Resident resident) {
         return residentService.saveResident(resident);
     }
